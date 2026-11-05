@@ -11,6 +11,6 @@
   
 ### 1. Ảnh màn hình Giao diện chính 
 
-### 2. Ảnh màn hình Chức năng thực thi / Kết quả 
+
 
 
